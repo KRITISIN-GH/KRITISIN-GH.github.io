@@ -2,4 +2,29 @@
 title: "About"
 ---
 
-About this site
+# About Me
+
+Hello! I’m **Kriti Singh**, a graduate student at **Boston University** pursuing a Master’s in **Applied Business Analytics**.
+
+My interests include:
+
+- Machine learning  
+- Cognitive performance research  
+- Neuroanalytics  
+- Motorsport data  
+- Data-driven decision making  
+- UX/UI design  
+- Cloud tools like AWS  
+
+I’m passionate about using data and AI to understand how humans think, react, and perform — especially in high-pressure environments like motorsports, hospitals, and racing simulations.
+
+My goals:
+
+- Build industry-level analytics projects  
+- Publish research papers in cognitive performance ML  
+- Develop UX/UI + AI-driven tools  
+- Create a cognitive tracker app for motorsport drivers  
+- Work as a data scientist or ML engineer  
+
+This website is a growing portfolio that showcases my projects, skills, and ongoing research.
+
