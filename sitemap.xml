@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://KRITISIN-GH.github.io/project.html</loc>
-    <lastmod>2025-12-15T01:22:45.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://KRITISIN-GH.github.io/index.html</loc>
-    <lastmod>2025-12-15T01:22:45.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://KRITISIN-GH.github.io/contact.html</loc>
-    <lastmod>2025-12-15T01:22:45.564Z</lastmod>
+    <loc>https://KRITISIN-GH.github.io/projects.html</loc>
+    <lastmod>2025-12-15T01:27:03.063Z</lastmod>
   </url>
   <url>
     <loc>https://KRITISIN-GH.github.io/about.html</loc>
-    <lastmod>2025-12-15T01:22:45.564Z</lastmod>
+    <lastmod>2025-12-15T01:27:03.063Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KRITISIN-GH.github.io/index.html</loc>
+    <lastmod>2025-12-15T01:27:03.063Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KRITISIN-GH.github.io/contact.html</loc>
+    <lastmod>2025-12-15T01:27:03.063Z</lastmod>
   </url>
 </urlset>

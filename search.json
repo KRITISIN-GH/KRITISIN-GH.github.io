@@ -1,38 +1,45 @@
 [
   {
-    "objectID": "project.html",
-    "href": "project.html",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
     "section": "",
     "text": "Below is a selection of academic, technical, and independent projects that demonstrate my skills in analytics, machine learning, research, and product thinking.\n\n\n\nType: Research + Machine Learning\nThis project explores how machine learning can be used to predict cognitive performance degradation under sustained stress. The goal is to model changes in reaction time, attention, and fatigue using physiological and behavioral features.\nKey Focus Areas - Cognitive load modeling\n- Feature engineering for high-stress signals\n- Supervised ML models for performance prediction\nTools & Technologies Python, Scikit-Learn, Pandas, NumPy\nStatus: Research & model development in progress\n\n\n\n\nType: Product + UX + Analytics\nDesigned the concept for a cognitive tracking system for motorsport drivers that visualizes reaction time, fatigue, and post-race performance insights.\nKey Features - Reaction time and fatigue scoring\n- AI-generated post-race debrief\n- Performance trend visualization\n- UX design optimized for high-pressure environments\nTools & Technologies UX Research, Figma, Python (planned), Data Visualization , Streamlit\nStatus: Concept & design phase\n\n\n\n\nType: Analytics & Optimization\nBuilt an optimization model to maximize Net Present Value (NPV) for residential real estate investments over multiple quarters.\nKey Focus Areas - Revenue forecasting\n- Cost optimization\n- Decision-based modeling\nTools & Technologies Excel Solver, Regression Models, Financial Analysis\nContext: Academic project (Applied Business Analytics)\n\n\n\n\n\nType: Machine Learning & Business Analytics\nCreated a machine learning model to estimate Customer Lifetime Value and segment customers based on predicted value.\nKey Focus Areas - Revenue impact analysis\n- Customer segmentation\n- Model interpretability\nTools & Technologies Python, Scikit-Learn, Pandas, Data Visualization\nStatus: Model and dashboard development in progress\n\nEach project reflects my focus on combining analytical rigor, real-world applicability, and thoughtful design. I continuously update this portfolio as I build and refine new work."
   },
   {
-    "objectID": "project.html#predicting-cognitive-performance-decline-in-high-stress-environments",
-    "href": "project.html#predicting-cognitive-performance-decline-in-high-stress-environments",
+    "objectID": "projects.html#predicting-cognitive-performance-decline-in-high-stress-environments",
+    "href": "projects.html#predicting-cognitive-performance-decline-in-high-stress-environments",
     "title": "Projects",
     "section": "",
     "text": "Type: Research + Machine Learning\nThis project explores how machine learning can be used to predict cognitive performance degradation under sustained stress. The goal is to model changes in reaction time, attention, and fatigue using physiological and behavioral features.\nKey Focus Areas - Cognitive load modeling\n- Feature engineering for high-stress signals\n- Supervised ML models for performance prediction\nTools & Technologies Python, Scikit-Learn, Pandas, NumPy\nStatus: Research & model development in progress"
   },
   {
-    "objectID": "project.html#motorsport-cognitive-tracker-concept-project",
-    "href": "project.html#motorsport-cognitive-tracker-concept-project",
+    "objectID": "projects.html#motorsport-cognitive-tracker-concept-project",
+    "href": "projects.html#motorsport-cognitive-tracker-concept-project",
     "title": "Projects",
     "section": "",
     "text": "Type: Product + UX + Analytics\nDesigned the concept for a cognitive tracking system for motorsport drivers that visualizes reaction time, fatigue, and post-race performance insights.\nKey Features - Reaction time and fatigue scoring\n- AI-generated post-race debrief\n- Performance trend visualization\n- UX design optimized for high-pressure environments\nTools & Technologies UX Research, Figma, Python (planned), Data Visualization , Streamlit\nStatus: Concept & design phase"
   },
   {
-    "objectID": "project.html#nyc-real-estate-optimization-model",
-    "href": "project.html#nyc-real-estate-optimization-model",
+    "objectID": "projects.html#nyc-real-estate-optimization-model",
+    "href": "projects.html#nyc-real-estate-optimization-model",
     "title": "Projects",
     "section": "",
     "text": "Type: Analytics & Optimization\nBuilt an optimization model to maximize Net Present Value (NPV) for residential real estate investments over multiple quarters.\nKey Focus Areas - Revenue forecasting\n- Cost optimization\n- Decision-based modeling\nTools & Technologies Excel Solver, Regression Models, Financial Analysis\nContext: Academic project (Applied Business Analytics)"
   },
   {
-    "objectID": "project.html#customer-lifetime-value-clv-predictor",
-    "href": "project.html#customer-lifetime-value-clv-predictor",
+    "objectID": "projects.html#customer-lifetime-value-clv-predictor",
+    "href": "projects.html#customer-lifetime-value-clv-predictor",
     "title": "Projects",
     "section": "",
     "text": "Type: Machine Learning & Business Analytics\nCreated a machine learning model to estimate Customer Lifetime Value and segment customers based on predicted value.\nKey Focus Areas - Revenue impact analysis\n- Customer segmentation\n- Model interpretability\nTools & Technologies Python, Scikit-Learn, Pandas, Data Visualization\nStatus: Model and dashboard development in progress\n\nEach project reflects my focus on combining analytical rigor, real-world applicability, and thoughtful design. I continuously update this portfolio as I build and refine new work."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nHello! I’m Kriti Singh, a graduate student at Boston University pursuing a Master’s in Applied Business Analytics.\nMy interests include:\n\nMachine learning\n\nCognitive performance research\n\nNeuroanalytics\n\nMotorsport data\n\nData-driven decision making\n\nUX/UI design\n\nCloud tools like AWS\n\nI’m passionate about using data and AI to understand how humans think, react, and perform — especially in high-pressure environments like motorsports, hospitals, and racing simulations.\nMy goals:\n\nBuild industry-level analytics projects\n\nPublish research papers in cognitive performance ML\n\nDevelop UX/UI + AI-driven tools\n\nCreate a cognitive tracker app for motorsport drivers\n\nWork as a data scientist or ML engineer\n\nThis website is a growing portfolio that showcases my projects, skills, and ongoing research."
   },
   {
     "objectID": "index.html",
@@ -47,12 +54,5 @@
     "title": "Contact",
     "section": "",
     "text": "Contact\nI’m always open to discussing projects, research collaborations, internships, and analytics opportunities.\nYou can reach me through the following channels:\n\nEmail: kriti@bu.edu\n\nGitHub: https://github.com/KRITISIN-GH\n\nFeel free to connect — I’m happy to share more about my work and experiences."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About Me\nHello! I’m Kriti Singh, a graduate student at Boston University pursuing a Master’s in Applied Business Analytics.\nMy interests include:\n\nMachine learning\n\nCognitive performance research\n\nNeuroanalytics\n\nMotorsport data\n\nData-driven decision making\n\nUX/UI design\n\nCloud tools like AWS\n\nI’m passionate about using data and AI to understand how humans think, react, and perform — especially in high-pressure environments like motorsports, hospitals, and racing simulations.\nMy goals:\n\nBuild industry-level analytics projects\n\nPublish research papers in cognitive performance ML\n\nDevelop UX/UI + AI-driven tools\n\nCreate a cognitive tracker app for motorsport drivers\n\nWork as a data scientist or ML engineer\n\nThis website is a growing portfolio that showcases my projects, skills, and ongoing research."
   }
 ]
