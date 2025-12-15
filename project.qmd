@@ -1,0 +1,82 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+Below is a selection of academic, technical, and independent projects that demonstrate my skills in analytics, machine learning, research, and product thinking.
+
+---
+
+##  Predicting Cognitive Performance Decline in High-Stress Environments
+**Type:** Research + Machine Learning  
+
+This project explores how machine learning can be used to predict cognitive performance degradation under sustained stress. The goal is to model changes in reaction time, attention, and fatigue using physiological and behavioral features.
+
+**Key Focus Areas**
+- Cognitive load modeling  
+- Feature engineering for high-stress signals  
+- Supervised ML models for performance prediction  
+
+**Tools & Technologies**
+Python, Scikit-Learn, Pandas, NumPy  
+
+**Status:** Research & model development in progress  
+
+---
+
+## 🏎️ Motorsport Cognitive Tracker (Concept Project)
+**Type:** Product + UX + Analytics  
+
+Designed the concept for a cognitive tracking system for motorsport drivers that visualizes reaction time, fatigue, and post-race performance insights.
+
+**Key Features**
+- Reaction time and fatigue scoring  
+- AI-generated post-race debrief  
+- Performance trend visualization  
+- UX design optimized for high-pressure environments  
+
+**Tools & Technologies**
+UX Research, Figma, Python (planned), Data Visualization , Streamlit 
+
+**Status:** Concept & design phase  
+
+---
+
+## 📊 NYC Real Estate Optimization Model
+**Type:** Analytics & Optimization  
+
+Built an optimization model to maximize Net Present Value (NPV) for residential real estate investments over multiple quarters.
+
+**Key Focus Areas**
+- Revenue forecasting  
+- Cost optimization  
+- Decision-based modeling  
+
+**Tools & Technologies**
+Excel Solver, Regression Models, Financial Analysis  
+
+**Context:** Academic project (Applied Business Analytics)
+
+---
+
+---
+
+## 📈 Customer Lifetime Value (CLV) Predictor
+**Type:** Machine Learning & Business Analytics  
+
+Created a machine learning model to estimate Customer Lifetime Value and segment customers based on predicted value.
+
+**Key Focus Areas**
+- Revenue impact analysis  
+- Customer segmentation  
+- Model interpretability  
+
+**Tools & Technologies**
+Python, Scikit-Learn, Pandas, Data Visualization  
+
+**Status:** Model and dashboard development in progress  
+
+---
+
+Each project reflects my focus on combining analytical rigor, real-world applicability, and thoughtful design. I continuously update this portfolio as I build and refine new work.
