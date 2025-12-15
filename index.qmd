@@ -6,7 +6,24 @@ html:
 theme: journal
 toc: true
 ---
-# Hello, World!
-This is a Quarto website.
+---
+title: "Welcome"
+format: html
+---
+
+# Welcome to My Portfolio
+
+Hello! I’m **Kriti Singh**, a graduate student in Applied Business Analytics at Boston University.
+
+This portfolio highlights my:
+
+- Academic projects  
+- Technical skills  
+- Research interests  
+- UX/UI and data science work  
+ 
+
+Use the navigation bar above to explore my work!
+
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
