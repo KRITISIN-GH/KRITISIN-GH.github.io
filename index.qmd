@@ -1,29 +1,40 @@
 ---
-title: "Welcome to My Website"
+title: "Welcome to My Portfolio"
 author: "Kriti Singh"
-date: "2025-09-16" 
-html:
-theme: journal
-toc: true
----
----
-title: "Welcome"
-format: html
+date: "2025-09-16"
+format:
+  html:
+    theme: journal
+    toc: true
 ---
 
-# Welcome to My Portfolio
+# Welcome to My Portfolio 
 
-Hello! I’m **Kriti Singh**, a graduate student in Applied Business Analytics at Boston University.
+Hello! I’m **Kriti Singh**, a graduate student in **Applied Business Analytics** at **Boston University**.  
 
-This portfolio highlights my:
+I am passionate about applying **data, AI, and analytics** to understand human behavior, optimize performance, and build actionable insights.
 
-- Academic projects  
-- Technical skills  
-- Research interests  
-- UX/UI and data science work  
- 
+---
 
-Use the navigation bar above to explore my work!
+##  This Portfolio Highlights
 
+- **Academic Projects:** Machine learning, optimization, and big data analytics  
+- **Technical Skills:** Python, SQL, PySpark, Dash, Plotly, AWS, and more  
+- **Research Interests:** Cognitive performance, neuroanalytics, and decision modeling  
+- **UX/UI & Data Science Work:** Dashboards, interactive visualizations, and product concepts  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+---
+
+##  Explore My Work
+
+Use the **navigation bar above** to explore:  
+
+- [About Me](about.qmd) – Learn about my background, skills, and goals  
+- [Projects](projects.qmd) – View my academic, technical, and independent projects  
+- [Contact](contact.qmd) – Connect with me or reach out  
+
+---
+
+> This portfolio is a living showcase of my work, continuously updated as I build new projects and refine my skills.  
+
+To learn more about Quarto websites, visit [Quarto Documentation](https://quarto.org/docs/websites).
