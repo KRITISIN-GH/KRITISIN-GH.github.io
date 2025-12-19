@@ -93,9 +93,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Welcome to My Portfolio",
     "section": "",
-    "text": "Welcome to My Portfolio\nHello! I’m Kriti Singh, a graduate student in Applied Business Analytics at Boston University.\nThis portfolio highlights my:\n\nAcademic projects\n\nTechnical skills\n\nResearch interests\n\nUX/UI and data science work\n\nUse the navigation bar above to explore my work!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! I’m Kriti Singh, a graduate student in Applied Business Analytics at Boston University.\nI am passionate about applying data, AI, and analytics to understand human behavior, optimize performance, and build actionable insights.\n\n\n\n\nAcademic Projects: Machine learning, optimization, and big data analytics\n\nTechnical Skills: Python, SQL, PySpark, Dash, Plotly, AWS, and more\n\nResearch Interests: Cognitive performance, neuroanalytics, and decision modeling\n\nUX/UI & Data Science Work: Dashboards, interactive visualizations, and product concepts\n\n\n\n\n\nUse the navigation bar above to explore:\n\nAbout Me – Learn about my background, skills, and goals\n\nProjects – View my academic, technical, and independent projects\n\nContact – Connect with me or reach out\n\n\n\nThis portfolio is a living showcase of my work, continuously updated as I build new projects and refine my skills.\n\nTo learn more about Quarto websites, visit Quarto Documentation."
+  },
+  {
+    "objectID": "index.html#this-portfolio-highlights",
+    "href": "index.html#this-portfolio-highlights",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "Academic Projects: Machine learning, optimization, and big data analytics\n\nTechnical Skills: Python, SQL, PySpark, Dash, Plotly, AWS, and more\n\nResearch Interests: Cognitive performance, neuroanalytics, and decision modeling\n\nUX/UI & Data Science Work: Dashboards, interactive visualizations, and product concepts"
+  },
+  {
+    "objectID": "index.html#explore-my-work",
+    "href": "index.html#explore-my-work",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "Use the navigation bar above to explore:\n\nAbout Me – Learn about my background, skills, and goals\n\nProjects – View my academic, technical, and independent projects\n\nContact – Connect with me or reach out\n\n\n\nThis portfolio is a living showcase of my work, continuously updated as I build new projects and refine my skills.\n\nTo learn more about Quarto websites, visit Quarto Documentation."
   },
   {
     "objectID": "contact.html",
