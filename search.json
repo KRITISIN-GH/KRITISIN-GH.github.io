@@ -39,7 +39,28 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About Me\nHello! I’m Kriti Singh, a graduate student at Boston University pursuing a Master’s in Applied Business Analytics.\nMy interests include:\n\nMachine learning\n\nCognitive performance research\n\nNeuroanalytics\n\nMotorsport data\n\nData-driven decision making\n\nUX/UI design\n\nCloud tools like AWS\n\nI’m passionate about using data and AI to understand how humans think, react, and perform — especially in high-pressure environments like motorsports, hospitals, and racing simulations.\nMy goals:\n\nBuild industry-level analytics projects\n\nPublish research papers in cognitive performance ML\n\nDevelop UX/UI + AI-driven tools\n\nCreate a cognitive tracker app for motorsport drivers\n\nWork as a data scientist or ML engineer\n\nThis website is a growing portfolio that showcases my projects, skills, and ongoing research."
+    "text": "Hello! I’m Kriti Singh, a graduate student at Boston University pursuing a Master’s in Applied Business Analytics.\nI’m passionate about data, AI, and human performance, and I love applying analytics to understand behavior, optimize decisions, and build actionable insights.\n\n\n\n\nMachine Learning & Predictive Modeling\n\nCognitive Performance Research & Neuroanalytics\n\nMotorsport Data Analytics\n\nData-driven Decision Making\n\nUX/UI Design & Product Thinking\n\nCloud Tools: AWS, PySpark, SQL\n\n\n\n\n\n\nBuild industry-level analytics projects combining ML, data visualization, and UX.\n\nPublish research papers on cognitive performance ML.\n\nDevelop AI-driven tools and dashboards for real-world applications.\n\nCreate a cognitive tracker app for motorsport drivers.\n\nSecure roles as a Data Scientist or ML Engineer in analytics-driven organizations.\n\n\n\n\n\nProgramming & Analytics: Python, SQL, PySpark, Pandas, NumPy, Scikit-Learn\nVisualization & Dashboards: Dash, Plotly, Streamlit, Tableau, Matplotlib, Seaborn\nCloud & Big Data: AWS, PySpark\nUX/UI & Design Tools: Figma, UX Research\n\nThis website is a growing portfolio that showcases my projects, skills, and ongoing research. Each project reflects my focus on analytical rigor, real-world impact, and thoughtful visualization."
+  },
+  {
+    "objectID": "about.html#my-interests",
+    "href": "about.html#my-interests",
+    "title": "About",
+    "section": "",
+    "text": "Machine Learning & Predictive Modeling\n\nCognitive Performance Research & Neuroanalytics\n\nMotorsport Data Analytics\n\nData-driven Decision Making\n\nUX/UI Design & Product Thinking\n\nCloud Tools: AWS, PySpark, SQL"
+  },
+  {
+    "objectID": "about.html#my-goals",
+    "href": "about.html#my-goals",
+    "title": "About",
+    "section": "",
+    "text": "Build industry-level analytics projects combining ML, data visualization, and UX.\n\nPublish research papers on cognitive performance ML.\n\nDevelop AI-driven tools and dashboards for real-world applications.\n\nCreate a cognitive tracker app for motorsport drivers.\n\nSecure roles as a Data Scientist or ML Engineer in analytics-driven organizations."
+  },
+  {
+    "objectID": "about.html#skills-tools",
+    "href": "about.html#skills-tools",
+    "title": "About",
+    "section": "",
+    "text": "Programming & Analytics: Python, SQL, PySpark, Pandas, NumPy, Scikit-Learn\nVisualization & Dashboards: Dash, Plotly, Streamlit, Tableau, Matplotlib, Seaborn\nCloud & Big Data: AWS, PySpark\nUX/UI & Design Tools: Figma, UX Research\n\nThis website is a growing portfolio that showcases my projects, skills, and ongoing research. Each project reflects my focus on analytical rigor, real-world impact, and thoughtful visualization."
   },
   {
     "objectID": "index.html",
