@@ -4,27 +4,37 @@ title: "About"
 
 # About Me
 
-Hello! I’m **Kriti Singh**, a graduate student at **Boston University** pursuing a Master’s in **Applied Business Analytics**.
+Hello! I’m **Kriti Singh**, a graduate student at **Boston University** pursuing a Master’s in **Applied Business Analytics**.  
 
-My interests include:
+I’m passionate about **data, AI, and human performance**, and I love applying analytics to understand behavior, optimize decisions, and build actionable insights.  
 
-- Machine learning  
-- Cognitive performance research  
-- Neuroanalytics  
-- Motorsport data  
-- Data-driven decision making  
-- UX/UI design  
-- Cloud tools like AWS  
+---
 
-I’m passionate about using data and AI to understand how humans think, react, and perform — especially in high-pressure environments like motorsports, hospitals, and racing simulations.
+## My Interests
+- Machine Learning & Predictive Modeling  
+- Cognitive Performance Research & Neuroanalytics  
+- Motorsport Data Analytics  
+- Data-driven Decision Making  
+- UX/UI Design & Product Thinking  
+- Cloud Tools: AWS, PySpark, SQL  
 
-My goals:
+---
 
-- Build industry-level analytics projects  
-- Publish research papers in cognitive performance ML  
-- Develop UX/UI + AI-driven tools  
-- Create a cognitive tracker app for motorsport drivers  
-- Work as a data scientist or ML engineer  
+##  My Goals
+- Build **industry-level analytics projects** combining ML, data visualization, and UX.  
+- Publish research papers on **cognitive performance ML**.  
+- Develop **AI-driven tools and dashboards** for real-world applications.  
+- Create a **cognitive tracker app for motorsport drivers**.  
+- Secure roles as a **Data Scientist or ML Engineer** in analytics-driven organizations.  
 
-This website is a growing portfolio that showcases my projects, skills, and ongoing research.
+---
 
+## Skills & Tools
+**Programming & Analytics:** Python, SQL, PySpark, Pandas, NumPy, Scikit-Learn  
+**Visualization & Dashboards:** Dash, Plotly, Streamlit, Tableau, Matplotlib, Seaborn  
+**Cloud & Big Data:** AWS, PySpark  
+**UX/UI & Design Tools:** Figma,  UX Research  
+
+---
+
+This website is a growing **portfolio that showcases my projects, skills, and ongoing research**. Each project reflects my focus on **analytical rigor, real-world impact, and thoughtful visualization**.
