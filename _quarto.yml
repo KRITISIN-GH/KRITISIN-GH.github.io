@@ -12,9 +12,17 @@ website:
         href: projects.qmd
       - text: "Contact"
         href: contact.qmd
+    right:
+      - text: "GitHub"
+        href: "https://github.com/KRITISIN-GH"
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/kriti-singh-258120311/"
 
 format:
   html:
     theme: flatly
     css: styles.css
     toc: true
+    code-fold: true           
+    highlight-style: tango    
+   
