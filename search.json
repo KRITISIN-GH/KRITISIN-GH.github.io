@@ -4,35 +4,63 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below is a selection of academic, technical, and independent projects that demonstrate my skills in analytics, machine learning, research, and product thinking.\n\n\n\nType: Research + Machine Learning\nThis project explores how machine learning can be used to predict cognitive performance degradation under sustained stress. The goal is to model changes in reaction time, attention, and fatigue using physiological and behavioral features.\nKey Focus Areas - Cognitive load modeling\n- Feature engineering for high-stress signals\n- Supervised ML models for performance prediction\nTools & Technologies Python, Scikit-Learn, Pandas, NumPy\nStatus: Research & model development in progress\n\n\n\n\nType: Product + UX + Analytics\nDesigned the concept for a cognitive tracking system for motorsport drivers that visualizes reaction time, fatigue, and post-race performance insights.\nKey Features - Reaction time and fatigue scoring\n- AI-generated post-race debrief\n- Performance trend visualization\n- UX design optimized for high-pressure environments\nTools & Technologies UX Research, Figma, Python (planned), Data Visualization , Streamlit\nStatus: Concept & design phase\n\n\n\n\nType: Analytics & Optimization\nBuilt an optimization model to maximize Net Present Value (NPV) for residential real estate investments over multiple quarters.\nKey Focus Areas - Revenue forecasting\n- Cost optimization\n- Decision-based modeling\nTools & Technologies Excel Solver, Regression Models, Financial Analysis\nContext: Academic project (Applied Business Analytics)\n\n\n\n\n\nType: Machine Learning & Business Analytics\nCreated a machine learning model to estimate Customer Lifetime Value and segment customers based on predicted value.\nKey Focus Areas - Revenue impact analysis\n- Customer segmentation\n- Model interpretability\nTools & Technologies Python, Scikit-Learn, Pandas, Data Visualization\nStatus: Model and dashboard development in progress\n\nEach project reflects my focus on combining analytical rigor, real-world applicability, and thoughtful design. I continuously update this portfolio as I build and refine new work."
+    "text": "A curated selection of my academic, technical, and independent projects showcasing analytics, machine learning, research, and product thinking.\n\n\n\nType: Research + Machine Learning\nThis project models how cognitive performance changes under high-stress conditions using behavioral and physiological data.\nKey Focus Areas - Cognitive load modeling\n- Feature engineering for high-stress signals\n- Supervised ML models for performance prediction\nTools & Technologies: Python, Scikit-Learn, Pandas, NumPy\nStatus: Research & model development in progress\n\n\n\n\nType: Product + UX + Analytics\nDesigned a concept for a cognitive tracking system for motorsport drivers that measures reaction time, fatigue, and post-race performance insights.\nKey Features - Reaction time & fatigue scoring\n- AI-generated post-race debrief\n- Performance trend visualization\n- UX design for high-pressure environments\nTools & Technologies: UX Research, Figma, Python (planned), Data Visualization, Streamlit\nStatus: Concept & design phase\n\n\n\n\nType: Analytics & Optimization\nOptimized residential real estate investments to maximize Net Present Value (NPV) over multiple quarters.\nKey Focus Areas - Revenue forecasting\n- Cost optimization\n- Decision-based modeling\nTools & Technologies: Excel Solver, Regression Models, Financial Analysis\nContext: Academic project (Applied Business Analytics)\n\n\n\n\nType: Machine Learning & Business Analytics\nBuilt a machine learning model to estimate Customer Lifetime Value and segment customers by predicted value.\nKey Focus Areas - Revenue impact analysis\n- Customer segmentation\n- Model interpretability\nTools & Technologies: Python, Scikit-Learn, Pandas, Data Visualization\nStatus: Model and dashboard development in progress\n\n\n\n\nType: Academic Project + ML + Big Data Analytics\nAnalyzed Lightcast job postings data using ML and EDA to extract insights on labor market trends and skills demand.\nKey Focus Areas - Exploratory Data Analysis (EDA) on large-scale job postings\n- Machine learning for classification and prediction of job trends\n- SQL querying and aggregation for insights\n- Cloud-based processing using AWS and PySpark\nTools & Technologies: Python, PySpark, SQL, AWS, Quarto\nStatus: Completed academic project\n\n\n\n\nType: Technical Project + Dashboard\nBuilt an interactive dashboard to visualize Formula 1 driver performance with track maps, telemetry plots, and driver style comparison.\nKey Features - Track map visualization\n- Telemetry plots (speed, braking, acceleration)\n- Driver style comparison panel\n- Real-time data updates\nTools & Technologies: Python, Dash, Plotly, Pandas\nStatus: Completed\n\n\n\n\nType: Machine Learning + Research\nPerformed EDA and ML on neuro-inspired datasets to identify patterns related to attention, fatigue, and performance variability.\nKey Focus Areas - Exploratory Data Analysis (EDA)\n- Feature engineering\n- Supervised and unsupervised ML models\n- Visualization of cognitive patterns\nTools & Technologies: Python, Scikit-Learn, Pandas, NumPy\nStatus: Completed\n\n\n\n\nType: Dashboard + Analytics\nDeveloped a real-time dashboard for analyzing brand sentiment using textual data and social media.\nKey Features - Sentiment trends visualization\n- Brand risk assessment\n- Comparative analysis across brands or time periods\n- Exportable insights for reports\nTools & Technologies: Python, Dash, Plotly, Pandas, Scikit-Learn\nStatus: Completed\n\nEach project reflects my approach to analytical rigor, real-world impact, and thoughtful visualization. I continuously update this portfolio as I build new projects and refine existing ones."
   },
   {
-    "objectID": "projects.html#predicting-cognitive-performance-decline-in-high-stress-environments",
-    "href": "projects.html#predicting-cognitive-performance-decline-in-high-stress-environments",
+    "objectID": "projects.html#predicting-cognitive-performance-decline",
+    "href": "projects.html#predicting-cognitive-performance-decline",
     "title": "Projects",
     "section": "",
-    "text": "Type: Research + Machine Learning\nThis project explores how machine learning can be used to predict cognitive performance degradation under sustained stress. The goal is to model changes in reaction time, attention, and fatigue using physiological and behavioral features.\nKey Focus Areas - Cognitive load modeling\n- Feature engineering for high-stress signals\n- Supervised ML models for performance prediction\nTools & Technologies Python, Scikit-Learn, Pandas, NumPy\nStatus: Research & model development in progress"
+    "text": "Type: Research + Machine Learning\nThis project models how cognitive performance changes under high-stress conditions using behavioral and physiological data.\nKey Focus Areas - Cognitive load modeling\n- Feature engineering for high-stress signals\n- Supervised ML models for performance prediction\nTools & Technologies: Python, Scikit-Learn, Pandas, NumPy\nStatus: Research & model development in progress"
   },
   {
-    "objectID": "projects.html#motorsport-cognitive-tracker-concept-project",
-    "href": "projects.html#motorsport-cognitive-tracker-concept-project",
+    "objectID": "projects.html#motorsport-cognitive-tracker-concept",
+    "href": "projects.html#motorsport-cognitive-tracker-concept",
     "title": "Projects",
     "section": "",
-    "text": "Type: Product + UX + Analytics\nDesigned the concept for a cognitive tracking system for motorsport drivers that visualizes reaction time, fatigue, and post-race performance insights.\nKey Features - Reaction time and fatigue scoring\n- AI-generated post-race debrief\n- Performance trend visualization\n- UX design optimized for high-pressure environments\nTools & Technologies UX Research, Figma, Python (planned), Data Visualization , Streamlit\nStatus: Concept & design phase"
+    "text": "Type: Product + UX + Analytics\nDesigned a concept for a cognitive tracking system for motorsport drivers that measures reaction time, fatigue, and post-race performance insights.\nKey Features - Reaction time & fatigue scoring\n- AI-generated post-race debrief\n- Performance trend visualization\n- UX design for high-pressure environments\nTools & Technologies: UX Research, Figma, Python (planned), Data Visualization, Streamlit\nStatus: Concept & design phase"
   },
   {
     "objectID": "projects.html#nyc-real-estate-optimization-model",
     "href": "projects.html#nyc-real-estate-optimization-model",
     "title": "Projects",
     "section": "",
-    "text": "Type: Analytics & Optimization\nBuilt an optimization model to maximize Net Present Value (NPV) for residential real estate investments over multiple quarters.\nKey Focus Areas - Revenue forecasting\n- Cost optimization\n- Decision-based modeling\nTools & Technologies Excel Solver, Regression Models, Financial Analysis\nContext: Academic project (Applied Business Analytics)"
+    "text": "Type: Analytics & Optimization\nOptimized residential real estate investments to maximize Net Present Value (NPV) over multiple quarters.\nKey Focus Areas - Revenue forecasting\n- Cost optimization\n- Decision-based modeling\nTools & Technologies: Excel Solver, Regression Models, Financial Analysis\nContext: Academic project (Applied Business Analytics)"
   },
   {
     "objectID": "projects.html#customer-lifetime-value-clv-predictor",
     "href": "projects.html#customer-lifetime-value-clv-predictor",
     "title": "Projects",
     "section": "",
-    "text": "Type: Machine Learning & Business Analytics\nCreated a machine learning model to estimate Customer Lifetime Value and segment customers based on predicted value.\nKey Focus Areas - Revenue impact analysis\n- Customer segmentation\n- Model interpretability\nTools & Technologies Python, Scikit-Learn, Pandas, Data Visualization\nStatus: Model and dashboard development in progress\n\nEach project reflects my focus on combining analytical rigor, real-world applicability, and thoughtful design. I continuously update this portfolio as I build and refine new work."
+    "text": "Type: Machine Learning & Business Analytics\nBuilt a machine learning model to estimate Customer Lifetime Value and segment customers by predicted value.\nKey Focus Areas - Revenue impact analysis\n- Customer segmentation\n- Model interpretability\nTools & Technologies: Python, Scikit-Learn, Pandas, Data Visualization\nStatus: Model and dashboard development in progress"
+  },
+  {
+    "objectID": "projects.html#lightcast-job-postings-ml-project",
+    "href": "projects.html#lightcast-job-postings-ml-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Type: Academic Project + ML + Big Data Analytics\nAnalyzed Lightcast job postings data using ML and EDA to extract insights on labor market trends and skills demand.\nKey Focus Areas - Exploratory Data Analysis (EDA) on large-scale job postings\n- Machine learning for classification and prediction of job trends\n- SQL querying and aggregation for insights\n- Cloud-based processing using AWS and PySpark\nTools & Technologies: Python, PySpark, SQL, AWS, Quarto\nStatus: Completed academic project"
+  },
+  {
+    "objectID": "projects.html#f1-telemetry-dashboard",
+    "href": "projects.html#f1-telemetry-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Type: Technical Project + Dashboard\nBuilt an interactive dashboard to visualize Formula 1 driver performance with track maps, telemetry plots, and driver style comparison.\nKey Features - Track map visualization\n- Telemetry plots (speed, braking, acceleration)\n- Driver style comparison panel\n- Real-time data updates\nTools & Technologies: Python, Dash, Plotly, Pandas\nStatus: Completed"
+  },
+  {
+    "objectID": "projects.html#neuro-data-cognitive-pattern-analysis",
+    "href": "projects.html#neuro-data-cognitive-pattern-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Type: Machine Learning + Research\nPerformed EDA and ML on neuro-inspired datasets to identify patterns related to attention, fatigue, and performance variability.\nKey Focus Areas - Exploratory Data Analysis (EDA)\n- Feature engineering\n- Supervised and unsupervised ML models\n- Visualization of cognitive patterns\nTools & Technologies: Python, Scikit-Learn, Pandas, NumPy\nStatus: Completed"
+  },
+  {
+    "objectID": "projects.html#brand-sentiment-dashboard",
+    "href": "projects.html#brand-sentiment-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Type: Dashboard + Analytics\nDeveloped a real-time dashboard for analyzing brand sentiment using textual data and social media.\nKey Features - Sentiment trends visualization\n- Brand risk assessment\n- Comparative analysis across brands or time periods\n- Exportable insights for reports\nTools & Technologies: Python, Dash, Plotly, Pandas, Scikit-Learn\nStatus: Completed\n\nEach project reflects my approach to analytical rigor, real-world impact, and thoughtful visualization. I continuously update this portfolio as I build new projects and refine existing ones."
   },
   {
     "objectID": "about.html",
